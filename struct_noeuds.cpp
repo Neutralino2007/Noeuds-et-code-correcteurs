@@ -82,5 +82,5 @@ void reidemeisterMouvementIII(DiagrammeNoeud & D, int idCroisement) {
 
 int main(){
 
-
 }
+
